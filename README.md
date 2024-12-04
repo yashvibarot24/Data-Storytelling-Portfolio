@@ -31,6 +31,6 @@ This repository showcases an interactive Tableau dashboard analyzing trends in t
 ---
 
 ## About Me
-I am a Master’s in Business Analytics graduate with a passion for deriving actionable insights from data. This project is a demonstration of my data visualization expertise.
+As a Master's graduate in Business Analytics, I thrive on transforming complex data into clear, actionable insights that drive business success. With a strong foundation in data analysis and a passion for storytelling through visualization, I use tools like Tableau and SQL to uncover trends and patterns that empower decision-makers. This project highlights my ability to turn raw data into compelling visual narratives, showcasing not just technical skills, but a keen eye for strategy and innovation.
 
 ---
