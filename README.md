@@ -1,17 +1,36 @@
-# Tableau Dashboards Portfolio
+# Washington House Sales Dashboard
 
-Welcome to my Tableau Dashboards Portfolio! This repository highlights my ability to analyze and visualize complex datasets using Tableau. Below are two dashboards I created to gain insights into real-world data scenarios.
+This repository showcases an interactive Tableau dashboard analyzing trends in the Washington housing market using historical sales data. It highlights insights into house prices, conditions, and other features across various dimensions.
 
 ---
 
-## Dashboards
+## Dashboard Overview
 
-### 1. [Washington House Sales Analysis](https://public.tableau.com/views/WashingtonHouseSalesDashboard)  
-   **Objective**: Explore trends in the Washington housing market using historical sales data.  
-   **Key Insights**:
-   - Daily average house prices by date.
-   - Heatmap comparing house conditions and views.
-   - Frequency distributions of bedrooms and bathrooms.  
+### [View the Dashboard on Tableau Public](https://public.tableau.com/views/WashingtonHouseSalesDashboard)  
+**Objective**: Analyze trends and patterns in Washington's housing market to provide actionable insights for stakeholders.  
 
-   **Preview**:  
-   ![Washington House Sales Dashboard](images/washington_house_sales.png)
+**Key Features**:
+- **Daily Average House Prices**: Visualize price trends by day.  
+- **Price Distribution**: Understand price ranges and their frequency.  
+- **View vs. Condition Heatmap**: Explore how property conditions and views impact pricing.  
+- **Bedrooms and Bathrooms Analysis**: Frequency distributions of these features to identify market preferences.
+
+---
+
+## Dashboard Preview
+
+![Washington House Sales Dashboard](images/washington_house_sales.png)
+
+---
+
+## Tools Used
+- **Tableau Public**: For creating the interactive dashboard.
+- **Data Source**: Kaggle
+- **Skills Demonstrated**: Data cleaning, visualization, and storytelling through data.
+
+---
+
+## About Me
+I am a Master’s in Business Analytics graduate with a passion for deriving actionable insights from data. This project is a demonstration of my data visualization expertise.
+
+---
