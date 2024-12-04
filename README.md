@@ -6,7 +6,7 @@ This repository showcases an interactive Tableau dashboard analyzing trends in t
 
 ## Dashboard Overview
 
-### [View the Dashboard on Tableau Public](https://public.tableau.com/views/WashingtonHouseSalesDashboard)  
+### [View the Dashboard on Tableau Public](https://public.tableau.com/views/WashingtonHouseSalesDashBoard/HouseSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 **Objective**: Analyze trends and patterns in Washington's housing market to provide actionable insights for stakeholders.  
 
 **Key Features**:
